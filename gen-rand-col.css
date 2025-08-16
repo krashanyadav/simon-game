@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+button{
+    border: 1px solid red;
+    background-color: bisque;
+    border-radius: 10px;
+}
+button:active{
+    background-color: whitesmoke;
+}
+div{
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+}
